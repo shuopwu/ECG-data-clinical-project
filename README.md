@@ -1,4 +1,5 @@
 DATA SCIENCE PRACTICUM
+
 DSC	450	
 
 • Cardiologist dataset.
@@ -9,5 +10,6 @@ DSC	450
 
 
 References:
+
 These methods are effective in Patient ECG Analysis,though the datasets used are private reserved.
 Great thanks to Dr. Tolga Soyata, Alex Page, and Nabil Hossain.
