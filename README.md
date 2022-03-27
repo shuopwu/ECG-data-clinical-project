@@ -1,6 +1,6 @@
 DATA SCIENCE PRACTICUM
 
-DSC	450	
+DSC	450	UofR 2016
 
 • Cardiologist dataset.
 • Read ECG signals in Python, exploring large dataset 
